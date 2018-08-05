@@ -1,4 +1,4 @@
-package com.albumss;
+package com.albums;
 
 import com.facebook.react.ReactActivity;
 

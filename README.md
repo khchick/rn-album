@@ -1,1 +1,1 @@
-# rn-album
+# rn-albums
