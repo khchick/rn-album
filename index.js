@@ -8,4 +8,4 @@ const App = () => (
 );
 
 // Render it to the device
-AppRegistry.registerComponent('album', () => App);
+AppRegistry.registerComponent('albums', () => App);

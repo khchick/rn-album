@@ -1,5 +1,5 @@
 {
-  "name": "album",
+  "name": "albums",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,6 +18,7 @@
     "babel-jest": "23.4.2",
     "babel-preset-react-native": "^5",
     "jest": "23.4.2",
+    "react-native-rename": "^2.2.2",
     "react-native-typescript-transformer": "^1.2.10",
     "react-test-renderer": "16.4.1",
     "ts-jest": "^23.1.2",
